@@ -5,7 +5,7 @@ public class Ejercicio01 {
     Scanner scanner = new Scanner(System.in);
 
     System.out.println("Ingrese la primera evaluación:");
-    doubleevaluacion1 = scanner.nextDouble();
+    double evaluacion1 = scanner.nextDouble();
 
     System.out.println("Ingrese la segunda evaluación:");
     double evaluacion2 = scanner.nextDouble();
