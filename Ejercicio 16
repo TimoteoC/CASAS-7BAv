@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TablaMultiplicarInfinita {
+public class CASAS-7BAv {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
