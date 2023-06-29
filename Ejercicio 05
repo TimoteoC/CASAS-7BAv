@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PuestoTorneo {
+public class CASAS-7BAv {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
